@@ -1,4 +1,4 @@
-# Profounder
+# FunderPro
 for cloning run command "git clone https://github.com/charan-3811/Profounder "
 
 steps to run :
